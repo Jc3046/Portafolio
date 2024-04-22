@@ -28,3 +28,4 @@ C:\Users\JeanCarloAlcázar\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\r
 C:\Users\JeanCarloAlcázar\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
 C:\Users\JeanCarloAlcázar\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
 C:\Users\JeanCarloAlcázar\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\JeanCarloAlcázar\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.sourcelink.json
