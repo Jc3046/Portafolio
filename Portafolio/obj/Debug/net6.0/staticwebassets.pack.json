@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Imagenes\\Foto.jpg"
     },
     {
+      "Id": "C:\\Users\\JeanCarloAlcázar\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\JeanCarloAlcázar\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

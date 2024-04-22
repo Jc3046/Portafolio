@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sv5E4ZnUMK5zPjfDW55aV5irBm8M3COVYrDc4aA8x6o=",
+  "Hash": "5YRhaP8aALmO3lkdW6ThrAzqnMm6ijHp6kBmaGJIhl0=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\JeanCarloAlcázar\\source\\repos\\Portafolio\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\JeanCarloAlcázar\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JeanCarloAlcázar\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
       "Identity": "C:\\Users\\JeanCarloAlcázar\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
