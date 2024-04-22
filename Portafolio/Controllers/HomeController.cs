@@ -15,9 +15,9 @@ namespace Portafolio.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.nombre = "Jean Carlo 2";
+            
             ViewBag.edad = 17;
-            return View();
+            return View("Index","Alyson Arguedas");
         }
 
         public IActionResult Privacy()
