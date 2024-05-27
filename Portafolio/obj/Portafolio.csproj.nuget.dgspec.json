@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jean Carlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
+    "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jean Carlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
+    "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jean Carlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectUniqueName": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "projectName": "Portafolio",
-        "projectPath": "C:\\Users\\Jean Carlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectPath": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "packagesPath": "C:\\Users\\Jean Carlo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jean Carlo\\Source\\Repos\\Portafolio\\Portafolio\\obj\\",
         "projectStyle": "PackageReference",
