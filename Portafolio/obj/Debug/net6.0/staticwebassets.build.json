@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HcLobIVzPhThoGiYVjITBcI3ldgutB8+cL7Ht3ESHVc=",
+  "Hash": "HkiEgd3esvnXqtJQ31QBwZxaYhRvz3pCGJiW+quDruk=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\donet.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Imagenes/donet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\donet.png"
     },
     {
       "Identity": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\Foto.jpg",

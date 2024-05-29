@@ -1,39 +1,25 @@
-﻿@model persona
-
-@{
+﻿@{
     ViewData["Title"] = "Pagina Principal";
-    string convertirEnMayuscula(string valor)
-    {
-        return valor.ToUpper() + "zzz";
-    }
-
-    DateTime hoy = DateTime.Now;
-    var nombres = new List<string>() { "Jean Carlo", "Alyson", "Roberto" };
 }
 
 <div class="text-center">
 
-    <ul>
-        @foreach (var nombre in nombres)
-        {
-            <li>@nombre</li>
-        }
-    </ul>
-
-    <h1 class="display-4">Soy @convertirEnMayuscula(Model.Nombre) (@Model.Edad)</h1>
-    <h4>@hoy.ToString("dd/MM/yyyy hh:mm:ss tt")</h4>
-
-    @if (Model.Edad >= 18)
-    {
-        <h4>Eres mayor de edad! Puedes pasar <button>Entrar</button></h4>
-    }
-    else
-    {
-        <h4>Eres menor! Largate</h4>
-    }
-
+    <h1 class="display-4">Soy Jean Carlo</h1>
     <h2>Soy un desarrollador full stack especializado en tecnologia .NET y JavaScript.</h2>
 
     <img id="foto"
          src="~/imagenes/Foto.jpg" alt="Foto de obama" />
+</div>
+
+<div class="text-center">
+    <img id="imagen-donet" src="~/Imagenes/donet.png" alt="donet logo" />
+</div>
+
+<div class="row justify-content-center text-center bg-primary">
+    <div class="col col-md-7 seccion-bienvenida">
+        <h1>Te doy la bienvenida a mi portafolio</h1>.
+        <p>
+            Un desarrollador es un constructor digital, transformando ideas en realidad mediante líneas de código. Es un explorador del mundo binario, combinando lógica y creatividad para dar vida a la innovación tecnológica.
+        </p>
+    </div>
 </div>

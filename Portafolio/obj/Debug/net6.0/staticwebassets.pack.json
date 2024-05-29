@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Imagenes\\Foto.jpg"
     },
     {
+      "Id": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\donet.png",
+      "PackagePath": "staticwebassets\\Imagenes\\donet.png"
+    },
+    {
       "Id": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
       "PackagePath": "staticwebassets\\css\\custom.css"
     },
