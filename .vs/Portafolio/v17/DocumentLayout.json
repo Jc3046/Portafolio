@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -56,7 +64,7 @@
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAuwEAAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T13:41:08.161Z",
               "IsPinned": true,
@@ -64,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\custom.css",
@@ -73,12 +81,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-27T13:41:08.021Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
@@ -88,6 +95,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T13:41:08.177Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwEgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:10:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T16:56:49.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -111,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Portafolio.csproj",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
               "RelativeDocumentMoniker": "Portafolio\\Portafolio.csproj",
@@ -123,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "persona.cs",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Models\\persona.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\persona.cs",
@@ -135,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
               "RelativeDocumentMoniker": "Portafolio\\Program.cs",
@@ -147,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\_ViewStart.cshtml",
@@ -159,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Privacy.cshtml",
@@ -171,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
