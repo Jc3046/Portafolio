@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jean carlo\\source\\repos\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwEAAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T13:41:08.161Z",
               "IsPinned": true,
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\custom.css",
               "ToolTip": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
               "RelativeToolTip": "Portafolio\\wwwroot\\css\\custom.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-27T13:41:08.021Z",
               "IsPinned": true,
@@ -87,8 +87,7 @@
               "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T13:41:08.177Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
