@@ -8,22 +8,21 @@ namespace Portafolio.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly RepositorioProyectos repositorioProyecto;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, RepositorioProyectos repositorioProyectos)
         {
             _logger = logger;
+            this.repositorioProyecto = repositorioProyectos;
         }
 
         public IActionResult Index()
         {
-            var  RepositorioProyecto=new RepositorioProyectos();
-            var proyectos = RepositorioProyecto.ObtenerProyectos().Take(3).ToList();    
+            
+            var proyectos = repositorioProyecto.ObtenerProyectos().Take(3).ToList();    
             var modelo = new HomeIndexViewModel() { Proyectos = proyectos };
              return View(modelo);
         }
-
-       
-
         public IActionResult Privacy()
         {
             return View();
