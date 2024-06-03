@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
+    "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
+    "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectUniqueName": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "projectName": "Portafolio",
-        "projectPath": "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectPath": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "packagesPath": "C:\\Users\\jcarlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\obj\\",
+        "outputPath": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jcarlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
