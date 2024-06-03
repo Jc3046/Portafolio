@@ -23,9 +23,11 @@ namespace Portafolio.Controllers
             var modelo = new HomeIndexViewModel() { Proyectos = proyectos };
              return View(modelo);
         }
-        public IActionResult Privacy()
+        public IActionResult Proyectos()
         {
-            return View();
+            var proyectos = repositorioProyecto.ObtenerProyectos();
+
+            return View(proyectos); 
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
