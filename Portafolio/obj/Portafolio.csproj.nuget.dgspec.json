@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
+    "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
+    "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectUniqueName": "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "projectName": "Portafolio",
-        "projectPath": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
-        "packagesPath": "C:\\Users\\Jean Carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jean Carlo\\source\\repos\\Portafolio\\Portafolio\\obj\\",
+        "projectPath": "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "packagesPath": "C:\\Users\\jcarlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jcarlo\\Source\\Repos\\Portafolio\\Portafolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jean Carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jcarlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
