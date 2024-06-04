@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jcarlo\\source\\repos\\portafolio\\portafolio\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jcarlo\\source\\repos\\portafolio\\portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jcarlo\\source\\repos\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jcarlo\\source\\repos\\portafolio\\portafolio\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{477B07B8-61A5-4643-B6CB-59F3E74DB874}|Portafolio\\Portafolio.csproj|c:\\users\\jcarlo\\source\\repos\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
@@ -60,14 +64,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Models\\ContactoViewModel.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Models\\ContactoViewModel.cs",
-              "ToolTip": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Models\\ContactoViewModel.cs",
-              "RelativeToolTip": "Portafolio\\Models\\ContactoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T01:50:26.551Z",
+              "Title": "Gracias.cshtml",
+              "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Gracias.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Gracias.cshtml",
+              "ToolTip": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Gracias.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Gracias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T02:08:40.485Z",
               "EditorCaption": ""
             },
             {
@@ -88,7 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ContactoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Models\\ContactoViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\ContactoViewModel.cs",
+              "ToolTip": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Models\\ContactoViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\ContactoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:50:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Contacto.cshtml",
               "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Contacto.cshtml",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
@@ -108,8 +125,7 @@
               "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAwCYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T06:36:11.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T06:36:11.147Z"
             },
             {
               "$type": "Document",
@@ -119,14 +135,14 @@
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAASAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T04:32:39.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ListadoProyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
@@ -138,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Proyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Proyectos.cshtml",
@@ -150,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RepositorioProyectos.cs",
               "DocumentMoniker": "C:\\Users\\jcarlo\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\RepositorioProyectos.cs",
